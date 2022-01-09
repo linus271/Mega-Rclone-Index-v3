@@ -57,7 +57,7 @@ Webdav with authentication added [here](https://github.com/bluehypergiant/Mega.n
 ##### Please use  ‘ADM‘ /‘Aria2 For android‘ OR ‘Aria2 For windows‘ / ‘XDM‘ for best Downloading speed
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega-Index-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/linus271/Mega-Rclone-Index-v3)
 [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega-Index-v3)
 
 ---
